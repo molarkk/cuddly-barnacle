@@ -1,4 +1,5 @@
-  {
+  [
+    {
     "name": "otispdq",
     "comment": "me",
     "allyCode": "562652846",
@@ -419,3 +420,4 @@
     "tagIdOnDrop": "",
     "tagIdOnClimb": ""
   }
+]
